@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header{
+    text-align: center;
+}
+#lpgo{
+    width: 250px;
+    height: auto;
+}
+#menu-bar{
+    text-align: center;
+    background-color: rgb(69, 135, 135);
+    
+}
+#menu-bar li{
+    display: inline-block;
+    padding: 15px 10px;
+    color: #e5d6d6;
+    font-size: 18px;
+    font-weight: 800;
+    color: black;
+}
+#container{
+    text-align: center;
+    padding: 50px 100px;
+}
+#aboute-img{
+  width: 100%;
+}
+.stycky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
